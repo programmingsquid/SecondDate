@@ -7,7 +7,7 @@ function answerYes() {
     document.getElementById("que").style.display = "none";
     document.getElementById("init").innerText = "Here's the truth";
   document.getElementById("message").style.display = "block";
-  document.getElementById("messageText").innerText = "I think you're awsome and i really like you.";
+  document.getElementById("messageText").innerText = "I think you're awesome and i really like you.";
   showConfetti()
 }
 
@@ -16,7 +16,7 @@ function answerNo() {
   document.getElementById("que").style.display = "none";
   document.getElementById("init").innerText = "YAY 🎉🎉🎉";
   document.getElementById("message").style.display = "block";
-  document.getElementById("messageText").innerText = "No worries";
+  document.getElementById("messageText").innerText = "Test option (change later)";
   showConfetti()
 
 }
