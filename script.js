@@ -7,7 +7,7 @@ function answerYes() {
     document.getElementById("que").style.display = "none";
     document.getElementById("init").innerText = "Here's the truth";
   document.getElementById("message").style.display = "block";
-  document.getElementById("messageText").innerText = "I think you're awsome and i really like you.";
+  document.getElementById("messageText").innerText = "insert paragraph";
   showConfetti()
 }
 
