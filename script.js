@@ -7,7 +7,7 @@ function answerYes() {
     document.getElementById("que").style.display = "none";
     document.getElementById("init").innerText = "Here's the truth";
   document.getElementById("message").style.display = "block";
-  document.getElementById("messageText").innerText = "I really enjoyed going to the predsgame with you yada yada more heartfelt words type shit.";
+  document.getElementById("messageText").innerText = "I really enjoyed going to the preds game with you and not getting taken away by a strange man in a hat";
   showConfetti()
 }
 
