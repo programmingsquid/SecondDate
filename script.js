@@ -7,7 +7,7 @@ function answerYes() {
     document.getElementById("que").style.display = "none";
     document.getElementById("init").innerText = "Here's the truth";
   document.getElementById("message").style.display = "block";
-  document.getElementById("messageText").innerText = "I really enjoyed going to the Preds game with you, and while I didn't get carried away by that drunk gut in the cowboy hat, I'd be happy to take you out on another date. Hopefully this time with less drunk people. lol";
+  document.getElementById("messageText").innerText = "I really enjoyed going to the Preds game with you, and while I didn't get carried away by that drunk guy in the cowboy hat, I'd be happy to take you out on another date. Hopefully this time with less drunk people🤞";
   showConfetti()
 }
 
